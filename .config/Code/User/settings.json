@@ -1,0 +1,5 @@
+{
+    "C_Cpp.updateChannel": "Insiders",
+    "cmake.configureOnOpen": true,
+    "update.mode": "manual"
+}

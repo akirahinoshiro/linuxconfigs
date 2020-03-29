@@ -1,0 +1,11 @@
+[
+    {
+        "key": "f5",
+        "command": "cmake.debugTarget",
+        "when": "!inDebugMode"
+    },
+    {
+        "key": "f7",
+        "command": "cmake.buildAll"
+    }
+]

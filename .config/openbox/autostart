@@ -1,0 +1,5 @@
+xcompmgr -c &
+numlockx &
+guake &
+#gkrellm &
+tint2 &
