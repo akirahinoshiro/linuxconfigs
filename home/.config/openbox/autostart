@@ -1,5 +1,6 @@
-xcompmgr -c &
+xcompmgr &
 numlockx &
 guake &
 #gkrellm &
 tint2 &
+xset b off &
