@@ -1,5 +1,8 @@
 {
     "C_Cpp.updateChannel": "Insiders",
     "cmake.configureOnOpen": true,
-    "update.mode": "manual"
+    "update.mode": "manual",
+    "[cpp]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    }
 }

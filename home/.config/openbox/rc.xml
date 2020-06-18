@@ -241,6 +241,7 @@
     </keybind>
     <keybind key="W-e">
       <action name="Execute">
+        <!--execute>spacefm</execute-->
         <execute>nemo</execute>
       </action>
     </keybind>

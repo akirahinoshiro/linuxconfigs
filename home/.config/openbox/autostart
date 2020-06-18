@@ -1,6 +1,9 @@
 xcompmgr &
 numlockx &
 guake &
-#gkrellm &
-tint2 &
+lxpanel &
+nm-applet &
 xset b off &
+xset s noblank &
+xset s off &
+xset -dpms &

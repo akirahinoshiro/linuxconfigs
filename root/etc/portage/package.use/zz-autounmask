@@ -1,0 +1,14 @@
+# This file will be migrate to new installation
+app-emulation/qemu static-user
+>=dev-libs/glib-2.60.7-r1 static-libs
+>=sys-libs/zlib-1.2.11-r2 static-libs
+>=sys-apps/attr-2.4.48-r3 static-libs
+>=dev-libs/libpcre-8.42 static-libs
+>=sys-libs/ncurses-compat-5.9 abi_x86_32
+
+media-gfx/blender collada
+
+sci-libs/openblas eselect-ldso
+sci-mathematics/octave gui
+
+media-sound/spotify -libnotify systray

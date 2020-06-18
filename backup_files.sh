@@ -36,3 +36,15 @@ cp ~/.config/qt5ct/qt5ct.conf home/.config/qt5ct/
 
 #misc
 cp ~/.bashrc .
+
+#calculate
+mkdir -p root/var/lib/portage
+cp /var/lib/portage/world root/var/lib/portage/
+mkdir -p root/etc/portage/package.accept_keywords/
+cp /etc/portage/package.accept_keywords/* root/etc/portage/package.accept_keywords/
+mkdir -p root/etc/portage/package.mask/
+cp /etc/portage/package.mask/* root/etc/portage/package.mask/
+mkdir -p root/etc/portage/package.unmask/
+cp /etc/portage/package.unmask/* root/etc/portage/package.unmask/
+mkdir -p root/etc/portage/package.use/
+cp /etc/portage/package.use/* root/etc/portage/package.use/

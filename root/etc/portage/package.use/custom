@@ -1,0 +1,4 @@
+# This file will be migrate to new installation
+media-gfx/gmic gimp fftw
+
+sys-devel/gcc ada

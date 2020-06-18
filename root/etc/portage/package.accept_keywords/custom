@@ -1,0 +1,11 @@
+# This file will be migrate to new installation
+app-editors/visual-studio-code ~amd64
+dev-util/smartgit ~amd64
+media-sound/spotify ~amd64
+app-emulation/protontricks ~amd64
+=dev-python/vdf-3.2 ~amd64
+dev-games/godot ~amd64
+media-plugins/gimp-wavelet-denoise ~amd64
+media-gfx/gmic ~amd64
+games-util/xboxdrv ~amd64
+media-plugins/refocus-it ~amd64
